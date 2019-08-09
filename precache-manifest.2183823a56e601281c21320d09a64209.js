@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19d399b88221a3cb96b413d7f0ff80c3",
+    "revision": "804b89ca1326b5d50fae21bab2d5d4a7",
     "url": "/heatmap/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heatmap/static/css/2.509658c0.chunk.css"
   },
   {
-    "revision": "7ac25db5f8eb3df0e4bd",
-    "url": "/heatmap/static/css/main.fad0ad71.chunk.css"
+    "revision": "a941337fdafb332f28af",
+    "url": "/heatmap/static/css/main.acc3429a.chunk.css"
   },
   {
     "revision": "066747f3b0587654d0ee",
     "url": "/heatmap/static/js/2.a49a4412.chunk.js"
   },
   {
-    "revision": "7ac25db5f8eb3df0e4bd",
-    "url": "/heatmap/static/js/main.944f0533.chunk.js"
+    "revision": "a941337fdafb332f28af",
+    "url": "/heatmap/static/js/main.1519075b.chunk.js"
   },
   {
     "revision": "e6b2793c0c8da9575b6e",
